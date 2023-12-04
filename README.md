@@ -1,0 +1,1 @@
+# go_crazy_1st_2023_examples
